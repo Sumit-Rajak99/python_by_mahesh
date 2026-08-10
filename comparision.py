@@ -1,0 +1,5 @@
+t=([1,2,3,4],[7,8,9,0])
+print(t)
+s=t[0].append(5)
+t[1].append(10)
+print(t)
